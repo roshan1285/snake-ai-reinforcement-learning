@@ -8,7 +8,7 @@ The agent learns to play the classic Snake game using Deep Q-Learning with a han
 
 # Demo
 
-> Add gameplay GIF or screenshots here.
+> Gameplay GIF
 
 ```text
 assets/gameplay.gif
@@ -193,7 +193,7 @@ This improves:
 # Project Structure
 
 ```text
-snake-rl-agent/
+snake-ai-reinforcement-learning/
 │
 ├── agent.py
 ├── model.py
@@ -209,9 +209,7 @@ snake-rl-agent/
 │   └── agent_state.pth
 │
 ├── assets/
-│   ├── gameplay.gif
-│   ├── training.png
-│   └── architecture.png
+│   └── gameplay.gif
 │
 └── .gitignore
 ```
@@ -223,8 +221,8 @@ snake-rl-agent/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-rl-agent.git
-cd snake-rl-agent
+git clone https://github.com/roshan1285/snake-ai-reinforcement-learning.git
+cd snake-ai-reinforcement-learning
 ```
 
 Install dependencies:
@@ -257,10 +255,10 @@ python snake_human.py
 
 | Metric                 | Value    |
 | ---------------------- | -------- |
-| Highest Score Achieved | XX       |
-| Training Games         | XXXX     |
-| Training Time          | XX Hours |
-| Average Stable Score   | XX       |
+| Highest Score Achieved | 102       |
+| Training Games         | 762     |
+| Training Time          | 0.5 Hours |
+| Average Stable Score   | 50       |
 
 ---
 
@@ -315,7 +313,7 @@ AI / ML / Software Development
 GitHub:
 
 ```text
-https://github.com/YOUR_USERNAME
+https://github.com/roshan1285/
 ```
 
 ---
