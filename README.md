@@ -8,13 +8,11 @@ The agent learns to play the classic Snake game using Deep Q-Learning with a han
 
 # Demo
 
-> Gameplay GIF
 
-```text
-assets/gameplay.gif
-```
+<p align="center">
+  <img src="assets/gameplay.gif" width="700"/>
+</p>
 
----
 
 # Project Overview
 
