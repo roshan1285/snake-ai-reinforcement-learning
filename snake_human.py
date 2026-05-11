@@ -31,7 +31,7 @@ x1_change = 0
 y1_change = 0
 
 screen = pygame.display.set_mode((WIDTH,HEIGHT))
-pygame.display.set_caption("Snake Game by R")
+pygame.display.set_caption("Snake Game by Roshan")
 
 
 game_over = False
